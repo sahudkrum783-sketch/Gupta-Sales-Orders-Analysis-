@@ -76,7 +76,7 @@ Gupta Stores can **increase sales** by:
 
 
 ## 📷 Dashboard Snapshot  
-![Dashboard Screenshot](screenshot1.png) 
+![Dashboard Screenshot](https://github.com/sahudkrum783-sketch/Gupta-Sales-Orders-Analysis-/blob/main/Excel%20Dashboard.png) 
 
 ---
 
